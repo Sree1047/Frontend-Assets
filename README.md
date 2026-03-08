@@ -163,6 +163,7 @@ This repository helps in learning:
 
 # 👨‍💻 Author
 Sree Bhargav Reddy Daggula
+
 Frontend UI & Animation Practice Repository
 
 Built for learning and experimenting with modern frontend development techniques.
