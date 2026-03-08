@@ -1,0 +1,13 @@
+Why pay if you can learn for FREE?
+1. HTML w3schools.com
+2. CSS - web.dev/learn/css
+3. JavaScript - javascript.info
+4. Git & GitHub - git-scm.com
+5. SQL SQLzap.com
+6. Python - learnpython.org
+7. API - rapidapi.com/learn
+8. React - react-tutorial.app
+9. Web3 - learnweb3.io
+10. Blockchain - cryptozombies.io
+11. Data structures - w3schools.in/data-structures
+12. Data algorithms - programiz.com/dsa
